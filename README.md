@@ -1,4 +1,4 @@
-### Hi there 👋
+### Lily did not make a choice! The computer is itself deterministic.
 
 <!--
 **drdevlin/drdevlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
