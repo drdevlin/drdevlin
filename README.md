@@ -1,4 +1,4 @@
-### Former Professional Philosopher. Hungry Programmer.
+### X-Obsessed: UX, DX, null checks.
 
 <!--
 **drdevlin/drdevlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
