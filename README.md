@@ -1,4 +1,4 @@
-### X-Obsessed: UX, DX, null checks.
+### X-Obsessed: UX, DX, assertion checks.
 
 <!--
 **drdevlin/drdevlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
